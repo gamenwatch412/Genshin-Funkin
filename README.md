@@ -2,7 +2,7 @@
 Source code originally made by the Psych Engine team, just minor alterations to the credits, title, discord status, music, sfx and diffculties.
 
 ## NOTE:
-This code only has the original vanilla game files. If you want to implement the Genshin Funkin' mod, download the mods folders and additional assets here: (https://gamebanana.com/dl/701533) and drag them to where they belong.
+This code only has the original vanilla game files. If you want to implement the Genshin Funkin' mod, download the base mod folders and additional assets on gamebanana or gamejolt and drag them to where they belong.
 
 ## How To Compile:
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
